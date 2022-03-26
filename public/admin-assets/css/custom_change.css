@@ -1,0 +1,168 @@
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    background-color: #17005d !important;
+}
+
+a {
+    color: #17005d;
+}
+.social-widget .app-widget .icon i
+{
+    color:#17005d
+}
+.header-btn .btn-primary {
+    color: #000;
+    background-color: #17005d;
+    border-color: #17005d;
+}
+.l-app {
+    background: linear-gradient(
+45deg
+, #fccd13, #9380ce) !important;
+    color: #fff !important;
+}
+.theme-orange .authentication .card .header {
+    background: linear-gradient(45deg, #ffffff, #ffffff);
+}
+
+.form-group .checkbox label, .form-group .radio label, .form-group label 
+{
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #030303;
+    font-weight: 400;
+}
+.m-t-min-15{
+    margin-top: -15px;
+}
+.theme-orange .sidebar .menu .list li.active>:first-child i, .theme-orange .sidebar .menu .list li.active>:first-child span {
+    color: #17005d;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.m-b-20 {
+    margin-bottom: 20px;
+}
+
+.bootstrap-select.btn-group:not(.input-group-btn), .bootstrap-select.btn-group[class*="col-"] {
+    float: none;
+    display: inline-block;
+    margin-left: 26px;
+    margin-bottom: 20px;
+}
+
+.notifications .btn-group
+{
+    margin: 0 !important;
+}
+
+.sidebar .user-info .info-container .name {
+    
+    padding-right: 20px;
+    width: 140px;
+    overflow: hidden;
+}
+.sidebar .user-info .info-container .email {
+
+    padding-right: 20px;
+    width: 140px;
+    overflow: hidden;
+}
+textarea.form-control {
+    height: auto;
+}
+.profile-page .profile-header {
+    background: none;
+}
+
+.profile-page .profile-header {
+    
+    padding-bottom: 30px;
+    padding-top: 30px;
+    position: relative;
+}
+
+.m-t-15, .profile-page .profile-header {
+    margin-top: 15px;
+}
+
+.member-card {
+    text-align: center;
+}
+
+.custom-label {
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #000;
+    font-weight: 600;
+}
+
+.day-box {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #17005d;
+    border-radius: 10px;
+    letter-spacing: 0px;
+    color: #fccd13;
+    height: 62px;
+    width: 100px;
+    line-height: 60px;
+}
+#imagePreview {
+    background: repeat scroll 0 0 #ddd;
+        background-position-x: 0px;
+        background-position-y: 0px;
+        background-image: none;
+        background-size: auto;
+    height: 150px;
+    width: 150px;
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+    padding: 4px;
+    transition: all 0.2s ease-in-out 0s;
+}
+
+.slider #imagePreview {
+    height: 200px;
+    width: 100%;
+}
+
+.wh-60 {
+    height: 60px !important;
+    width: auto !important;
+}
+.bg-color-sky-blue {
+    background-color:#03a9f4;
+}
+
+.table {
+    width: 100% !important;
+}
+
+.pull-left {
+    margin-left: 15px;
+}
+
+.bg-app {
+    background-color: #17005d !important;
+    color: #fff!important;
+}
+
+.form-group .custom-control {
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #aaa;
+    font-weight: 400;
+}
+
+.page-item.active .page-link {
+    z-index: 2;
+    color: #fff;
+    background-color: #17005d;
+    border-color: #17005d;
+}
